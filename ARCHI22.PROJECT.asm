@@ -1,7 +1,6 @@
 ;=============================================================================
 ; PROJECT   : Epsilon Calculator
 ; LANGUAGE  : x86 Assembly (8086, real mode, DOS)
-; AUTHOR    : Epsilon
 ; PLATFORM  : MS-DOS / DOSBox (assemble with MASM or TASM)
 ;
 ; DESCRIPTION
